@@ -57,8 +57,8 @@
 
 ## 🐍 Snake Eating My Contributions  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sohamkadu17/sohamkadu17/main/github-contribution-grid-snake.svg,dist/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-  <br>
+<!--   <img src="https://raw.githubusercontent.com/sohamkadu17/sohamkadu17/main/github-contribution-grid-snake.svg,dist/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <br> -->
     <img src="https://raw.githubusercontent.com/sohamkadu17/sohamkadu17/output/github-contribution-grid-snake.svg,dist/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </p>
