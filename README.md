@@ -1,7 +1,7 @@
 # Hi there, I'm Soham 👋  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+Student+%7C+AI+%26+ML+Enthusiast;React+%7C+Python+%7C+C%2FC%2B%2B;Full+Stack+Developer+In+Progress;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=58A6FF&center=true&vCenter=true&width=600&lines=IT+Student+%7C+AI+%26+ML+Enthusiast;React+%7C+Python+%7C+C%2FC%2B%2B;Full+Stack+Developer+In+Progress;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
