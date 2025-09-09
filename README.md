@@ -69,7 +69,8 @@
 ---
 
 ## 🌐 Connect with Me  
-- [LinkedIn](www.linkedin.com/in/soham-kadu-4b1214359) 
+- [<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/98ff8c95-6f45-41ca-8908-206f5dceda32" />
+LinkedIn](www.linkedin.com/in/soham-kadu-4b1214359) 
 - 📧 Email: sohamkadu24@gmail.com
 ---
 
