@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me  
-- 💻 CS student passionate about **AI, Machine Learning, and Full-Stack Development**  
+- 💻 IT student passionate about **AI, Machine Learning, and Full-Stack Development**  
 - 🌱 Currently practicing **Data Structures & Algorithms** in C/C++  
 - ⚡ Skilled in **React**, **Python (pandas, Django, Rest API, NumPy, scikit-learn)**  
 - 📊 Interested in **Data Science, AI/ML, and Scalable Applications**  
