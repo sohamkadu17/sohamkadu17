@@ -65,47 +65,6 @@
 
 ---
 
-## ⚙️ Snake Workflow Configuration
-
-Here is the GitHub Actions workflow (`.github/workflows/snake.yml`) that generates the contribution snake animation above:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule: # Runs every 12 hours
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write # Needed for pushing to branches
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      # 1. Checkout with full history
-      - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-
-      # 2. Generate the snake animation
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: sohamkadu17
-          outputs: dist/github-contribution-grid-snake.svg,dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      # 3. Push to output branch
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 ---
 
