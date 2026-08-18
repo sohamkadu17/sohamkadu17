@@ -45,7 +45,7 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohamkadu17&show_icons=true&theme=tokyonight&count_private=true)" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sohamkadu17&show_icons=true&theme=tokyonight&count_private=true" height="180em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamkadu17&theme=tokyonight" height="180em"/>
 </p>
 
@@ -57,10 +57,7 @@
 
 ## 🐍 Snake Eating My Contributions  
 <p align="center">
-<!--   <img src="https://raw.githubusercontent.com/sohamkadu17/sohamkadu17/main/github-contribution-grid-snake.svg,dist/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-  <br> -->
-    <img src="https://raw.githubusercontent.com/sohamkadu17/sohamkadu17/output/github-contribution-grid-snake.svg,dist/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
+  <img src="https://raw.githubusercontent.com/sohamkadu17/sohamkadu17/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
