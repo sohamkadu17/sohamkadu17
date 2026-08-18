@@ -43,15 +43,15 @@
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
+ 
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sohamkadu17&show_icons=true&theme=tokyonight&count_private=true" height="180em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamkadu17&theme=tokyonight" height="180em"/>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamkadu17&layout=compact&theme=tokyonight" height="180em"/>
-</p>
+</p> -->
 
 ---
 
