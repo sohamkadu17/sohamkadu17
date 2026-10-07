@@ -1,73 +1,87 @@
-# Hi there, I'm Soham 👋  
+# Hi, I'm Soham Kadu 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=58A6FF&center=true&vCenter=true&width=600&lines=IT+Student+%7C+AI+%26+ML+Enthusiast;React+%7C+Python+%7C+C%2FC%2B%2B;Full+Stack+Developer+In+Progress;Always+Learning+New+Things+🚀" />
-</p>
+**AI Engineering | LLMs | RAG | Full-Stack**
 
----
-
-## 🚀 About Me  
-- 💻 IT student passionate about **AI, Machine Learning, and Full-Stack Development**  
-- 🌱 Currently practicing **Data Structures & Algorithms** in C/C++  
-- ⚡ Skilled in **React**, **Python (pandas, Django, Rest API, NumPy, scikit-learn)**  
-- 📊 Interested in **Data Science, AI/ML, and Scalable Applications**  
-- 🔗 Open to collaborating on exciting projects & hackathons  
+IT undergraduate at Vishwakarma Institute of Technology, Pune (CGPA 8.78).  
+I build practical AI systems — RAG pipelines, agentic backends, and intelligent LLM infrastructure.
 
 ---
 
-## 🛠️ Tech Stack  
+### 🔥 Featured Projects
 
-### 💻 Languages & Frameworks  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**[AURA – Autonomous University Response Assistant](https://github.com/sohamkadu17/AURA)**  
+Self-hosted AI academic assistant with RAG, long-term memory, and multi-model routing.  
+**LangChain (LCEL)** + FastAPI + ChromaDB + Ollama (Llama 3.1 / Qwen) + Next.js.
 
-### 📊 Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+**[FlexCTX – Intelligent LLM Gateway](https://github.com/sohamkadu17/FlexCTX)**  
+VRAM-aware LLM router with semantic caching and automatic model selection between local (Ollama / llama.cpp) and cloud APIs.
 
-### ⚙️ Libraries & Tools  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Spline](https://img.shields.io/badge/Spline-0A0A0A?style=for-the-badge&logo=spline&logoColor=white)
+**[Sanskrit ASR + Shloka Identifier](https://github.com/sohamkadu17/sanskrit_asr_project)**  
+Fine-tuned Wav2Vec2 for Sanskrit speech recognition + FAISS-based shloka matching and pronunciation feedback.
+
+**[Real-Time Risk Management](https://github.com/sohamkadu17/Real-time-risk-management)**  
+Streaming risk scoring platform (Pathway + FastAPI + React + WebSockets) with RAG-based AI explainability.
 
 ---
 
- 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohamkadu17&show_icons=true&theme=tokyonight&count_private=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamkadu17&theme=tokyonight" height="180em"/>
-</p> -->
+### 🛠️ Tech Stack
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamkadu17&layout=compact&theme=tokyonight" height="180em"/>
-</p> -->
+**AI / LLM**  
+`LangChain` · `Hugging Face` · `Ollama` · `Llama.cpp` · `ChromaDB` · `FAISS` · `RAG` · `AI Agents` · `Wav2Vec2` · `Gemini`
 
----
+**Backend**  
+`Python` · `FastAPI` · `Node.js` · `Express` · `Django` · `Pydantic` · `SQLAlchemy`
 
-## 🐍 Snake Eating My Contributions  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sohamkadu17/sohamkadu17/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+**Frontend**  
+`React` · `Next.js` · `Three.js` · `Tailwind CSS`
 
----
+**Databases & Infra**  
+`PostgreSQL` · `MongoDB` · `SQLite` · `Redis` · `Docker` · `Linux` · `Git` · `GCP`
 
+**Languages**  
+`Python` · `JavaScript` · `TypeScript` · `Java` · `C` · `SQL`
 
 ---
 
-## 🌐 Connect with Me  
-- <img width="20" height="15" alt="image" src="https://github.com/user-attachments/assets/9c2e6553-15de-4d44-af2b-691d9d59f499" />LinkedIn](www.linkedin.com/in/soham-kadu-4b1214359) 
-- 📧 Email: sohamkadu24@gmail.com
+### 📜 Certifications & Learning
+
+**Completed**
+- AI Engineer Core Track (Udemy) – LLM Engineering, RAG, QLoRA, AI Agents (July 2026)
+- IBM Full Stack Software Developer path (in progress):
+  - Introduction to Software Engineering
+  - Introduction to Cloud Computing
+  - Introduction to HTML, CSS & JavaScript
+  - Getting Started with Git and GitHub
+  - Developing Front-End Apps with React
+
+**Targeting by end of 2026**
+- Developing Back-End Apps with Node.js and Express
+- Python for Data Science, AI & Development
+- Developing AI Applications with Python and Flask
+- Django Application Development with SQL and Databases
+- Introduction to Containers with Docker, Kubernetes & OpenShift
+- Application Development using Microservices and Serverless
+- Full Stack Application Development Capstone Project
+- Generative AI: Elevate your Software Development Career
+
+Google Cloud Skills Boost badges (Generative AI, Vertex AI, Prompt Engineering, ML, Cloud, etc.) – profile link pending verification.
+
 ---
 
-⭐️ *“Code, Learn, Build, Repeat.”*  
+### 📌 Currently
+
+- Chief of Technical @ GeeksforGeeks VIT Pune  
+- Building production-ready AI systems  
+- Actively solving DSA
+
+---
+
+### 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-kadu-4b1214359)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohamkadu24@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sohamkadu17)
+
+---
+
+⭐️ *Building practical AI systems that actually work.*
