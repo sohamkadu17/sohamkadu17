@@ -43,38 +43,6 @@ Streaming risk scoring platform (Pathway + FastAPI + React + WebSockets) with RA
 
 ---
 
-### 📜 Certifications & Learning
-
-**Completed**
-- AI Engineer Core Track (Udemy) – LLM Engineering, RAG, QLoRA, AI Agents (July 2026)
-- IBM Full Stack Software Developer path (in progress):
-  - Introduction to Software Engineering
-  - Introduction to Cloud Computing
-  - Introduction to HTML, CSS & JavaScript
-  - Getting Started with Git and GitHub
-  - Developing Front-End Apps with React
-
-**Targeting by end of 2026**
-- Developing Back-End Apps with Node.js and Express
-- Python for Data Science, AI & Development
-- Developing AI Applications with Python and Flask
-- Django Application Development with SQL and Databases
-- Introduction to Containers with Docker, Kubernetes & OpenShift
-- Application Development using Microservices and Serverless
-- Full Stack Application Development Capstone Project
-- Generative AI: Elevate your Software Development Career
-
-Google Cloud Skills Boost badges (Generative AI, Vertex AI, Prompt Engineering, ML, Cloud, etc.) – profile link pending verification.
-
----
-
-### 📌 Currently
-
-- Chief of Technical @ GeeksforGeeks VIT Pune  
-- Building production-ready AI systems  
-- Actively solving DSA
-
----
 
 ### 📬 Connect
 
